@@ -1,0 +1,15 @@
+{
+  "name": "jzarzoso.com",
+  "version": "1.0.0",
+  "description": "My personal website.",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -p 80 public/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Janzen Zarzoso",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}
